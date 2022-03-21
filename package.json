@@ -1,0 +1,32 @@
+{
+  "name": "login-signup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amrita1295/Login-SignUp.git"
+  },
+  "author": "Amrita singh jassal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amrita1295/Login-SignUp/issues"
+  },
+  "homepage": "https://github.com/amrita1295/Login-SignUp#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^7.0.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "http-proxy-middleware": "^2.0.4",
+    "jsonwebtoken": "^8.5.1",
+    "materialize-css": "^1.0.0",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.7",
+    "validator": "^13.7.0"
+  }
+}
